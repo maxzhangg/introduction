@@ -1,2 +1,2 @@
 # introduction
-I don't know what to write here
+Hi, I'm Max.
